@@ -1,6 +1,6 @@
 <h1>Hi, I'm Krizan Wijayakusumah <br/><a href="https://www.linkedin.com/in/krizanwijayakusumah/">Data Analyst</a></h1>
 
-<h2>👨‍💻 Data Analyst Projects:</h2>
+<h2>👨‍💻 Highlighted Skills:</h2>
 
 - <b>Spreadsheets/Excel</b>
   - [Cleaning and analyze data using spreadsheets](https://docs.google.com/spreadsheets/d/1ePbDUidnEXL6WluMD7EBZ-_K8s-KY-nY-zUgqtJ9THM/edit?usp=sharing)
